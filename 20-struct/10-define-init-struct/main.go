@@ -22,7 +22,7 @@ func main() {
 	p2 := Person{
 		FirstName: "John",
 		LastName:  "Doe",
-		Age:       10,
+		Age:       40,
 	}
 	fmt.Println(p2)
 
