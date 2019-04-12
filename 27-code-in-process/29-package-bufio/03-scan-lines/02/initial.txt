@@ -1,0 +1,4 @@
+initial content scanned line by line.
+line 01
+line 02
+line 03 with extra comment #13@!@#$%^&*()_+
